@@ -19,7 +19,7 @@ Diabetic Retinopathy Detection is a machine learning project aimed at detecting 
 
 ## Technologies Used
 - Python
-- TensorFlow/Keras
+- PyTorch
 - OpenCV
 - NumPy
 - Pandas
