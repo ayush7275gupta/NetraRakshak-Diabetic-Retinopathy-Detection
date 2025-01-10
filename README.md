@@ -1,4 +1,4 @@
-# Diabetic Retinopathy Detection
+# Netra Rakshak - Diabetic Retinopathy Detection
 ## Table of Contents
 - Introduction
 - Features
