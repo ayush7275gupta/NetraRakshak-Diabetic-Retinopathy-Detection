@@ -35,7 +35,7 @@ Diabetic retinopathy is one of the leading causes of preventable blindness world
 The dataset used for this project can be obtained from the Kaggle Diabetic Retinopathy Detection competition. And the model used is trained using a ResNet-152 neural network architecture.
 
 ## Installation and setup
-1. Clone the repository: git clone https://github.com/your-repo/blindness-detection.gitcd blindness-detection
+1. Clone the repository: git clone [(https://github.com/ayush7275gupta/NetraRakshak-Diabetic-Retinopathy-Detection)]
 2. Install required dependencies: pip install -r requirements.txt
 3. Download the dataset and place it in the appropriate directory.
 4. Run the training script: DRD_ResNet.ipynb
